@@ -87,3 +87,5 @@ com.example.callingapp/
 - ✅ Contact name mapping for predefined numbers
 - ✅ Smooth animations (pulse, ring, fade transitions)
 - ✅ Edge-to-edge display support
+
+# Calling-App
